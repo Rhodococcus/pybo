@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--gsgpyz)g*6)$$fm%q$#18-+-+@6ztrxe+67uet3tryafu7og*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [15.164.142.57]
+ALLOWED_HOSTS = []
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField' # 오류방지라고함
 # Application definition
